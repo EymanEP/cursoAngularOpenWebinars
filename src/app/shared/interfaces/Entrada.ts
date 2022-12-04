@@ -1,4 +1,4 @@
 export interface Entrada {
-  titulo: String;
-  resumen: String;
+  title: any;
+  body: any;
 }
